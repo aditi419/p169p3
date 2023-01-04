@@ -1,0 +1,11 @@
+Model Information:
+* title:	Toy 3d model
+* source:	https://sketchfab.com/3d-models/toy-3d-model-75e3cb0a4c014676ad1c7054aba3377a
+* author:	all3dfree (https://sketchfab.com/Jacoblee84)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Toy 3d model" (https://sketchfab.com/3d-models/toy-3d-model-75e3cb0a4c014676ad1c7054aba3377a) by all3dfree (https://sketchfab.com/Jacoblee84) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
